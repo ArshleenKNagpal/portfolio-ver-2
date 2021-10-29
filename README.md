@@ -16,6 +16,7 @@ The following image shows my portfolio's appearance and functionality:
 
 You can view the webpage is: <https://github.com/ArshleenKNagpal/portfolio-ver-2>
 You can view the portfolio here: <https://arshleenknagpal.github.io/portfolio-ver-2/>
+
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 # portfolio
